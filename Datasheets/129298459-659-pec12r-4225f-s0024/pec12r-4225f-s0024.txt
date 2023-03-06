@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-13062022-064182";"";
+"REFERENCE";"PEC12R-4225F-S0024";"";
+"TraceParts.PartTitle";"Encoder 25mm Shaft w/Switch 24 pulses";"";
+"TraceParts.InstanceId";"90-13062022-0641822N3XX9WWY2MK673V115V3T3RA";"";
+"DESIGN";"Encoder 25mm Shaft w/Switch 24 pulses";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"BOURNS";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"BOURNS:90-13062022-064182";"";
